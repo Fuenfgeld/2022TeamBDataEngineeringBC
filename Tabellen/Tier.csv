@@ -1,7 +1,11 @@
-Lebenserwartung;Klasse;Maximal Hoehe in cm;Maximal Gewicht in kg;Futter;Futtermenge in KG pro Monat
-13;Saeugetier;61;34;Hundefutter;12
-15;Saeugetier;25;4,5;Katzenfutter;9,3
-2;Saeugetier;4;0,005;Getreidemischung;0,05
-3;Saeugetier;4;0,15;Hamsterfutter;
-35;Saeugetier;150;600;Pferdefutter;20
-30;Fisch;2;2;Fischfutter;
+Id;Tier;Lebenserwartung;Klasse;Hoehe in cm;Schnitt Gewicht in kg;Anschaffungskosten in €;Kosten Grundausstattung in €;Tierarztkosten;Futter;Futtermenge in KG pro Monat;Mind. Rudelanzahl ;Beschaeftigung
+1;Hund;13;Saeugetier;61;34;1000;300;;Hundefutter;12;1;5
+2;Katze;15;Saeugetier;25;4,5;200;300;;Katzenfutter;9,3;1;2
+3;Maus;1,5;Saeugetier;3;0,02;5;330;;Getreidemischung;0,09;3;1
+4;Meerschweinchen;6;Saeugetier;10;1;30;300;;Getreidemischung;0,9;2;1
+5;Ratte;2;Saeugetier;20;0,3;15;150;;Getreidemischung;0,6;2;3
+6;Hamster;2;Saeugetier;4;0,12;5;200;;Getreidemischung;0,6;1;1
+7;Kaninchen;8;Saeugetier;20;2;60;400;;Kaninchenfutter;3;3;1
+8;Hauspferd;30;Saeugetier;150;600;7000;2500;;Pferdefutter;20;1;5
+9;Goldfisch;20;Fische;15;1;4;350;;Fischfutter;0,3;3;1
+10;Wellensittich;8;Voegel;17;0,035;30;100;;Vogelfutter;0,105;2;3
