@@ -1,7 +1,9 @@
-Art;Kosten pro KG;Enthaelt Fleisch;Hersteller
-Hundefutter;4.3;Ja;1
-Katzenfutter;2.7;Ja;2
-Getreidemischung;10;Nein;3
-Hamsterfutter;2;Nein;3
-Pferdefutter;0.65;Nein;4
-Fischfutter;2.5;Nein;5
+F_ID;Art;Kosten pro KG;Enthaelt Fleisch;Hersteller
+1;Hundefutter;04. Mrz;Ja;1
+2;Katzenfutter;02. Jul;Ja;2
+3;Getreidemischung;10;Nein;3
+4;Hamsterfutter;2;Nein;3
+5;Pferdefutter;0.65;Nein;4
+6;Fischfutter;02. Mai;Nein;5
+7;Kaninchenfutter;;Nein;3
+8;Vogelfutter;;Nein;3
