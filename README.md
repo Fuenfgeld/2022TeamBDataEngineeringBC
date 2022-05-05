@@ -9,3 +9,4 @@ The exercises can be found [here](https://colab.research.google.com/github/Fuenf
 
 The solutions for the exercises are available under [this](https://github.com/Fuenfgeld/2022TeamBDataEngineeringBC/blob/main/loesung_workshop.ipynb) link.
 
+The presentation togeather with the pictures used in the presentation can be found [here](https://github.com/Fuenfgeld/2022TeamBDataEngineeringBC/tree/main/Presentation)
