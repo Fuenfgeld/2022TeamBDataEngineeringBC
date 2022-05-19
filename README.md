@@ -5,8 +5,8 @@
 This is a repository for a Data Engineering Tutorial.
 This repository contains the data, code and presentations to teach our fellow students, or other people who are interested in SQLite about the basics of SQLite. The main part is the transformation of an unknown table sctructure into a star schema. 
 
-The exercises can be found [here](https://colab.research.google.com/github/Fuenfgeld/2022TeamBDataEngineeringBC/blob/main/Workshop.ipynb). 
+The workbook about our SQLite lesson can be found (https://colab.research.google.com/github/Fuenfgeld/2022TeamBDataEngineeringBC/blob/main/Presentation/Pr%C3%A4sentation%20SQLite.ipynb)[here].
+After each section there are lessons linked in the workbook. At the end of every lesson you can find the solution for the exercise.
 
-The solutions for the exercises are available under [this](https://colab.research.google.com/github/Fuenfgeld/2022TeamBDataEngineeringBC/blob/main/loesung_workshop.ipynb) link.
 
-The presentation togeather with the pictures used in the presentation can be found [here](https://github.com/Fuenfgeld/2022TeamBDataEngineeringBC/tree/main/Presentation).
+
